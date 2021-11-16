@@ -23,7 +23,7 @@
     "tslib": "^1.10.0",
     "zone.js": "~0.9.1",
     "amazon-cognito-identity-js": "^3.0.15",
-    "aws-sdk": "^2.524.0",
+    "aws-sdk": "^2.814.0",
     "ngx-toastr": "^10.2.0"
   },
   "devDependencies": {
